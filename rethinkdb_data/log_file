@@ -1,0 +1,16 @@
+2015-08-22T17:34:33.997853000 0.298055s notice: Recursively removing directory /Users/almas/IdeaProjects/http-api/rethinkdb_data/tmp
+2015-08-22T17:34:34.007228000 0.307435s notice: Initializing directory /Users/almas/IdeaProjects/http-api/rethinkdb_data
+2015-08-22T17:34:34.007348000 0.307549s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/almas/IdeaProjects/http-api/rethinkdb_data' did not already exist or is empty.)
+2015-08-22T17:34:34.007385000 0.307586s notice: Running rethinkdb 2.0.4 (CLANG 6.1.0 (clang-602.0.53))...
+2015-08-22T17:34:34.021772000 0.321975s notice: Running on Darwin 14.4.0 x86_64
+2015-08-22T17:34:34.021863000 0.322064s notice: Loading data from directory /Users/almas/IdeaProjects/http-api/rethinkdb_data
+2015-08-22T17:34:34.270177000 0.570328s info: Automatically using cache size of 100 MB
+2015-08-22T17:34:34.270192000 0.570343s warn: Cache size does not leave much memory for server and query overhead (available memory: 412 MB).
+2015-08-22T17:34:34.270196000 0.570347s warn: Cache size is very low and may impact performance.
+2015-08-22T17:34:34.272652000 0.572804s notice: Listening for intracluster connections on port 29015
+2015-08-22T17:34:34.277067000 0.577218s notice: Listening for client driver connections on port 28015
+2015-08-22T17:34:34.277173000 0.577324s notice: Listening for administrative HTTP connections on port 8080
+2015-08-22T17:34:34.277179000 0.577330s notice: Listening on addresses: 127.0.0.1, ::1
+2015-08-22T17:34:34.277183000 0.577334s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-08-22T17:34:34.277186000 0.577337s notice: Server ready, "Almass_MacBook_Pro_local_a6o" 9f86ebbe-8738-4093-b634-ea92efc102ed
+2015-08-22T18:21:01.047869000 2783.448487s notice: Removing file /Users/almas/IdeaProjects/http-api/rethinkdb_data/af3b3bd0-1bb1-4b43-bb8a-2fd61525e8b4
